@@ -61,6 +61,8 @@
     "@types/react": "^19.0.1",
     "circuit-json": "^0.0.212",
     "comlink": "^4.4.2",
+    "css-select": "^5.1.0",
+    "css-what": "^6.1.0",
     "jscad-fiber": "^0.0.79",
     "react": "^19.0.0",
     "schematic-symbols": "^0.0.163",
