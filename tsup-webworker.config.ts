@@ -14,5 +14,5 @@ export default defineConfig({
   ],
   clean: true,
   dts: true,
-  external: ["css-what"],
+  external: ["css-what", "css-select"],
 })
